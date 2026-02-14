@@ -420,6 +420,14 @@
             "email": "zulbadamz@gmail.com",
             "github": "https://github.com/Zulbadamz",
             "linkedin": "https://www.linkedin.com/in/zulbadam-batdelger-aa91851b7/"
+        },
+        {
+            "name": "Dara Sen",
+            "photo": "Dara-Sen.webp",
+            "about": "Passonate about Full-Stack Development, Machine Learning and Data Science",
+            "email": "darasen0277@gmail.com",
+            "github": "https://github.com/DS-0277",
+            "linkedin": "https://www.linkedin.com/in/dara-sen-24681863/"
         }
     ]
 }
